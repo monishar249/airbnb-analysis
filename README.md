@@ -1,5 +1,5 @@
 # Airbnb-Analysis
-Overview
+Overview                                                                                                                                                                    
 This project analyzes Airbnb data using MongoDB Atlas, focusing on data cleaning, interactive geospatial visualizations, and dashboard creation. It aims to uncover pricing variations, availability patterns, and location-based trends.
 
 Features
