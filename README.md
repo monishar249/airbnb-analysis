@@ -23,12 +23,6 @@ Understanding Airbnb pricing dynamics and availability patterns is crucial for h
    - Build a comprehensive dashboard using Tableau or Power BI.
    - Combine various visualizations to present key insights from the analysis.
 
-## Technology used
-   -Python.
-   -MongoDB Atlas.
-   -Streamlit.
-   -Tableau/Power BI.
-
 ## Data source
 The Airbnb dataset used in this project is sourced from MongoDB Atlas.
 
